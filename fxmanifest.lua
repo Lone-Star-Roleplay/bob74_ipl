@@ -103,8 +103,8 @@ client_scripts {
     , "dlc_afterhours/nightclubs.lua"
 
     -- DLC Diamond Casino (Requires forced build 2060 or higher)
-    , "dlc_casino/casino.lua"
-    , "dlc_casino/penthouse.lua"
+    --, "dlc_casino/casino.lua"
+    --, "dlc_casino/penthouse.lua"
 
     -- DLC Cayo Perico Heist (Requires forced build 2189 or higher)
     , "dlc_cayoperico/base.lua"
@@ -127,7 +127,6 @@ client_scripts {
     , "dlc_security/office4.lua"
 
     -- DLC The Criminal Enterprises (Requires forced build 2699 or higher)
-    , "gta_mpsum2/simeonfix.lua"
     , "gta_mpsum2/vehicle_warehouse.lua"
     , "gta_mpsum2/warehouse.lua"
 
